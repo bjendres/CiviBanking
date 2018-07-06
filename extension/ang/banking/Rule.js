@@ -55,7 +55,6 @@
       // Main table text fields.
       CRM._.map(table_fields, function (field) {
         params[field] = rule_data[field + '_enabled'] ? (rule_data[field] || '') : null;
-        console.log(`found ${field} to be '${params[field]}'`);
       });
 
       // Name
