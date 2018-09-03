@@ -14,9 +14,9 @@
     <url desc="Support">https://github.com/project60/org.project60.banking/issues</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
-  <releaseDate>2018-08-31</releaseDate>
-  <version>0.7.gp-3.dev-0cb4c8b5</version>
-  <develStage>test</develStage>
+  <releaseDate>2018-09-03</releaseDate>
+  <version>0.7.gp-3</version>
+  <develStage>stable</develStage>
   <compatibility>
     <ver>4.5</ver>
     <ver>4.6</ver>
